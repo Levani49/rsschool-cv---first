@@ -1,8 +1,8 @@
 # CV
 
-### 
+### Levani Pachuashvili
 
-### email: 
+### email: levani.pachuashvili.1@btu.edu.ge
 
 ### Always open for new opportunities
 
