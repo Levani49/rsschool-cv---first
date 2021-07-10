@@ -2,27 +2,25 @@
 
 ### Levani Pachuashvili
 
-### email: levani.pachuashvili.1@btu.edu.ge
+### email: levani.pachuashvili.1@btu.edu.ge  (phone number - 558573775)
 
-### Always open for new opportunities
+### My goal is to learn as much as possible and become full-stack developer
 
-### Skills
+### My Skills
 
 - HTML
 - CSS
-- JS
-- Bootstrap
-- REACT
-- Node.js
+- JavaScript(Basics)
+- Python
+- Oracle SQL
+- Kotlin(Basics)
 
-### Freelancer who is always learning
+### always studying, Coding, Creating Projects
 
 ### Education
-
-- GTU as Power Engineering and Telecommunication
+- Business and Technical University(BTU), online courser(from youtube), w3school tutorials, programming books
 
 ### Languages
-
-- English
 - Georgian
-- Russian
+- ENGLISH(B1+)
+- Russian(A2)
